@@ -1,2 +1,2 @@
 # info-2950
-Our info 2950 project
+Hey everyone. This is the github page for our 2950 project
