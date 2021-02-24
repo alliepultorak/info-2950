@@ -1,0 +1,14 @@
+1. Congress and Social Media: https://www.kaggle.com/codebreaker619/congress-on-social-media-201520?select=Social+media+statistics+for+members+of+the+116th+Congress.csv
+2. Database of wikipedia articles: https://dumps.wikimedia.org/backup-index.html
+3. List of kickstarter campaigns: https://www.kaggle.com/kemical/kickstarter-projects
+4. Facebook political ads content: https://www.propublica.org/datastore/dataset/political-advertisements-from-facebook
+
+All data is available under an open license to use and distribute
+
+Questions for Research Mentor:
+1. Are we allowed/encouraged to use multiple data sets, or is the project really meant to focus on just one. 
+2. Do you think one of these datasets seems particularily set to this project?
+3. Is there an easy way to send models between computers on github without having to reprocess on each partner's computer?
+
+
+Github link: https://github.com/AsherML/info-2950
