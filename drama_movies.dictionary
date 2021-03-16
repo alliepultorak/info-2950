@@ -1,0 +1,12 @@
+{"baddayatblackrock_dialog.txt" : {"characters":["MACREEDY", "SMITH", "LIZ", "HORN", "DOC"], "villain": "HECTOR", "year":"1995"}, 
+"blackdahliathe_dialog.txt" : {"characters":["BUCKY", "KAY", "LEE", "MADELEINE", "ELIZABETH SHORT"], "villain": "RAMONA", "year":"2006"},
+"bloodsimple_dialog.txt" : {"characters":["MARTY", "ABBY", "RAY", "MEURICE", "DEBRA"], "villain": "VISSER", "year":"1984"},
+"bonnieandclyde_dialog.txt" : {"characters":["C.W.", "BUCK", "HAMER", "BLANCE", "VELMA"], "villain": ["BONNIE","CLYDE"], "year":"1967"},
+"changeling_dialog.txt" : {"characters":["CHRISTINE", "WALTER", "OPERATOR", "MR. HARRIS"], "villain": "GORDEN", "year":"2008"},
+"enemyofthestate_dialog.txt" : {"characters":["DEAN", "RACHEL", "SENATOR ALBERT", "CHRISTA", "HICKS"], "villain": "REYNOLDS", "year":"1998"},
+"insomnia_dialog.txt" : {"characters":["WILL", "HAP", "PILOT", "ELLIE", "CHIEF NYBACK"], "villain": "WALTER", "year":"2002"},
+"laconfidential_dialog.txt" : {"characters":["JACK", "EXLEY", "BUD", "LYNN", "HUDGEONS"], "villain": "DUDLEY", "year":"1997"},
+"se7en_dialog.txt" : {"characters":["SOMERSET", "MILLS", "TRACY", "DAVIS", "O'NEILL"], "villain": "JOHN DOE", "year":"1995"},
+"someonetowatchoverme_dialog.txt" : {"characters":["CLAIRE", "MIKE", "ELLIE", "GARBER", "NEIL"], "villain": "VENZA", "year":"1987"},
+"_dialog.txt" : {"characters":["LAURA", "LELAND", "RONETTE", "SHELLY", "JEFFRIES"], "villain": "BOB", "year":"1992"}
+}
